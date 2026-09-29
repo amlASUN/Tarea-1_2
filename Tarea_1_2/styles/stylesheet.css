@@ -1,0 +1,25 @@
+body {
+    background-color: darkgray;
+}
+
+.div1_body{
+    color: white;
+    text-align: center;
+    background-color: grey;
+    border: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: black;
+}
+
+.imagen {
+    width: 30%;
+    border-radius: 10px;
+    border: 2px;
+    border-color: black;
+}
+
+.columna {
+  background-color: darkslateblue;
+  text-align: center;
+}
